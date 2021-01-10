@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">componentesBasicosAndroid</string>
+    <string name="toggle_turn_on">Turn On</string>
+    <string name="toggle_turn_off">Turn Off</string>
+
+    <string name="example_edittext">Exemplo de texto editável</string>
+    <string name="show_the_text">Show the Text</string>
+    <string name="enter_text">text changes</string>
+
+</resources>
