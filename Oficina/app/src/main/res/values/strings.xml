@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Oficina</string>
+    <!--    Main Activity-->
+    <string name="main_btn_login">Login</string>
+    <string name="main_btn_register">Registrar</string>
+    <string name="mensagem_inicial">Bem Vindo!</string>
+
+    <!--    Register -->
+    <string name="register_titulo">Insira seus Dados</string>
+    <string name="register_btn_add">Cadastrar</string>
+    <string name="register_btn_cancel">Cancelar</string>
+
+    <!--    Logado-->
+    <string name="logado_editar_dados">Editar Dados Cadastrados</string>
+    <string name="logado_notificacao">Notificação sobre pedidos</string>
+
+<!--    Tela Login-->
+    <string name="senha">Senha</string>
+    <string name="cpf">CPF: 00000000000</string>
+    <string name="login">Login</string>
+    <string name="cancelar">Cancelar</string>
+
+<!--    Tela Editar Dados-->
+    <string name="rua">Rua:</string>
+    <string name="bairro">Bairro:</string>
+    <string name="modelo_do_carro">Modelo do Carro:</string>
+
+
+
+</resources>
